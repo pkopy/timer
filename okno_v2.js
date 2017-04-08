@@ -1,6 +1,6 @@
 
 
-function test(x){
+function window(x){
 //var o = document.createTextNode(x)
 	
 	console.log(x)
