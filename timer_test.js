@@ -1,4 +1,4 @@
-function pushTimer(elem,min,sek){ //element musi być podany w postaci 'elementID'
+function pushTimer3(elem,min,sek){ //element musi być podany w postaci 'elementID'
 var a = 0;
 var b = 0;
 var c,d;
