@@ -1,6 +1,6 @@
 
 
-function moveWindow(x){
+function extraWindow(x){
 //var o = document.createTextNode(x)
 	
 	console.log(x)
